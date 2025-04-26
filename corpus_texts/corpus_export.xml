@@ -1,0 +1,1976 @@
+<?xml version="1.0" ?>
+<corpus>
+  <files>
+    <file name="anotherText.pdf" mtime="1744910215.8514187">
+      <raw_text>Food  
+While eating at a restaurant is an enjoyable and convenient occasional treat, most 
+individuals and families prepare their meals at home. To make breakfast, lunch, and 
+dinner daily, these persons must have the required foods and ingredients on hand and 
+read y to go; foods and ingredients are typically purchased from a  grocery store,  or an 
+establishment that distributes foods, drinks, household products, and other items 
+that're used by the typical consumer.  
+Produce,  or the term used to describe fresh fruits an d vegetables, is commonly 
+purchased by grocery store shoppers. In terms of  fruit , most grocery stores offer 
+bananas, apples, oranges, blackberries, raspberries, grapes, pineapples, cantaloupes, 
+watermelons, and more; other grocery stores with larger produc e selections might 
+offer the listed fruits in addition to less common fruits, including mangoes, honeydews, 
+starfruits, coconuts, and more.  
+Depending on the grocery store, customers can purchase fruits in a few different ways. 
+Some stores will charge a set  amount per pound of fruit, and will weigh customers' 
+fruit purchases and bill them accordingly; other stores will charge customers for each 
+piece of fruit they buy, or for bundles of fruit (a bag of bananas, a bag of apples, etc.); 
+other stores yet will s imply charge by the container.  
+Vegetables , including lettuce, corn, tomatoes, onions, celery, cucumbers, mushrooms, 
+and more are also sold at many grocery stores, and are purchased similarly to the way 
+that fruits are. Grocery stores typically stock more v egetables than fruit at any given 
+time, as vegetables remain fresh longer than fruits do, generally speaking.  
+It'd take quite a while to list  everything  else that today's massive grocery stores sell, but 
+most customers take the opportunity to shop for  stap les, or foods that play a 
+prominent role in the average diet, at the establishments. Staples include pasta, rice, 
+flour, sugar, milk, meat, and eggs, and bread. All the listed staples are available in 
+prepackaged containers, but can be purchased &quot;fresh&quot; in  some grocery stores, wherein 
+employees will measure and weigh fresh products and then provide them to 
+customers.  
+ 
+</raw_text>
+      <tokens>
+        <token>food</token>
+        <token>while</token>
+        <token>eating</token>
+        <token>at</token>
+        <token>a</token>
+        <token>restaurant</token>
+        <token>is</token>
+        <token>an</token>
+        <token>enjoyable</token>
+        <token>and</token>
+        <token>convenient</token>
+        <token>occasional</token>
+        <token>treat</token>
+        <token>most</token>
+        <token>individuals</token>
+        <token>and</token>
+        <token>families</token>
+        <token>prepare</token>
+        <token>their</token>
+        <token>meals</token>
+        <token>at</token>
+        <token>home</token>
+        <token>to</token>
+        <token>make</token>
+        <token>breakfast</token>
+        <token>lunch</token>
+        <token>and</token>
+        <token>dinner</token>
+        <token>daily</token>
+        <token>these</token>
+        <token>persons</token>
+        <token>must</token>
+        <token>have</token>
+        <token>the</token>
+        <token>required</token>
+        <token>foods</token>
+        <token>and</token>
+        <token>ingredients</token>
+        <token>on</token>
+        <token>hand</token>
+        <token>and</token>
+        <token>read</token>
+        <token>y</token>
+        <token>to</token>
+        <token>go</token>
+        <token>foods</token>
+        <token>and</token>
+        <token>ingredients</token>
+        <token>are</token>
+        <token>typically</token>
+        <token>purchased</token>
+        <token>from</token>
+        <token>a</token>
+        <token>grocery</token>
+        <token>store</token>
+        <token>or</token>
+        <token>an</token>
+        <token>establishment</token>
+        <token>that</token>
+        <token>distributes</token>
+        <token>foods</token>
+        <token>drinks</token>
+        <token>household</token>
+        <token>products</token>
+        <token>and</token>
+        <token>other</token>
+        <token>items</token>
+        <token>that</token>
+        <token>used</token>
+        <token>by</token>
+        <token>the</token>
+        <token>typical</token>
+        <token>consumer</token>
+        <token>produce</token>
+        <token>or</token>
+        <token>the</token>
+        <token>term</token>
+        <token>used</token>
+        <token>to</token>
+        <token>describe</token>
+        <token>fresh</token>
+        <token>fruits</token>
+        <token>an</token>
+        <token>d</token>
+        <token>vegetables</token>
+        <token>is</token>
+        <token>commonly</token>
+        <token>purchased</token>
+        <token>by</token>
+        <token>grocery</token>
+        <token>store</token>
+        <token>shoppers</token>
+        <token>in</token>
+        <token>terms</token>
+        <token>of</token>
+        <token>fruit</token>
+        <token>most</token>
+        <token>grocery</token>
+        <token>stores</token>
+        <token>offer</token>
+        <token>bananas</token>
+        <token>apples</token>
+        <token>oranges</token>
+        <token>blackberries</token>
+        <token>raspberries</token>
+        <token>grapes</token>
+        <token>pineapples</token>
+        <token>cantaloupes</token>
+        <token>watermelons</token>
+        <token>and</token>
+        <token>more</token>
+        <token>other</token>
+        <token>grocery</token>
+        <token>stores</token>
+        <token>with</token>
+        <token>larger</token>
+        <token>produc</token>
+        <token>e</token>
+        <token>selections</token>
+        <token>might</token>
+        <token>offer</token>
+        <token>the</token>
+        <token>listed</token>
+        <token>fruits</token>
+        <token>in</token>
+        <token>addition</token>
+        <token>to</token>
+        <token>less</token>
+        <token>common</token>
+        <token>fruits</token>
+        <token>including</token>
+        <token>mangoes</token>
+        <token>honeydews</token>
+        <token>starfruits</token>
+        <token>coconuts</token>
+        <token>and</token>
+        <token>more</token>
+        <token>depending</token>
+        <token>on</token>
+        <token>the</token>
+        <token>grocery</token>
+        <token>store</token>
+        <token>customers</token>
+        <token>can</token>
+        <token>purchase</token>
+        <token>fruits</token>
+        <token>in</token>
+        <token>a</token>
+        <token>few</token>
+        <token>different</token>
+        <token>ways</token>
+        <token>some</token>
+        <token>stores</token>
+        <token>will</token>
+        <token>charge</token>
+        <token>a</token>
+        <token>set</token>
+        <token>amount</token>
+        <token>per</token>
+        <token>pound</token>
+        <token>of</token>
+        <token>fruit</token>
+        <token>and</token>
+        <token>will</token>
+        <token>weigh</token>
+        <token>customers</token>
+        <token>fruit</token>
+        <token>purchases</token>
+        <token>and</token>
+        <token>bill</token>
+        <token>them</token>
+        <token>accordingly</token>
+        <token>other</token>
+        <token>stores</token>
+        <token>will</token>
+        <token>charge</token>
+        <token>customers</token>
+        <token>for</token>
+        <token>each</token>
+        <token>piece</token>
+        <token>of</token>
+        <token>fruit</token>
+        <token>they</token>
+        <token>buy</token>
+        <token>or</token>
+        <token>for</token>
+        <token>bundles</token>
+        <token>of</token>
+        <token>fruit</token>
+        <token>a</token>
+        <token>bag</token>
+        <token>of</token>
+        <token>bananas</token>
+        <token>a</token>
+        <token>bag</token>
+        <token>of</token>
+        <token>apples</token>
+        <token>etc</token>
+        <token>other</token>
+        <token>stores</token>
+        <token>yet</token>
+        <token>will</token>
+        <token>s</token>
+        <token>imply</token>
+        <token>charge</token>
+        <token>by</token>
+        <token>the</token>
+        <token>container</token>
+        <token>vegetables</token>
+        <token>including</token>
+        <token>lettuce</token>
+        <token>corn</token>
+        <token>tomatoes</token>
+        <token>onions</token>
+        <token>celery</token>
+        <token>cucumbers</token>
+        <token>mushrooms</token>
+        <token>and</token>
+        <token>more</token>
+        <token>are</token>
+        <token>also</token>
+        <token>sold</token>
+        <token>at</token>
+        <token>many</token>
+        <token>grocery</token>
+        <token>stores</token>
+        <token>and</token>
+        <token>are</token>
+        <token>purchased</token>
+        <token>similarly</token>
+        <token>to</token>
+        <token>the</token>
+        <token>way</token>
+        <token>that</token>
+        <token>fruits</token>
+        <token>are</token>
+        <token>grocery</token>
+        <token>stores</token>
+        <token>typically</token>
+        <token>stock</token>
+        <token>more</token>
+        <token>v</token>
+        <token>egetables</token>
+        <token>than</token>
+        <token>fruit</token>
+        <token>at</token>
+        <token>any</token>
+        <token>given</token>
+        <token>time</token>
+        <token>as</token>
+        <token>vegetables</token>
+        <token>remain</token>
+        <token>fresh</token>
+        <token>longer</token>
+        <token>than</token>
+        <token>fruits</token>
+        <token>do</token>
+        <token>generally</token>
+        <token>speaking</token>
+        <token>it</token>
+        <token>take</token>
+        <token>quite</token>
+        <token>a</token>
+        <token>while</token>
+        <token>to</token>
+        <token>list</token>
+        <token>everything</token>
+        <token>else</token>
+        <token>that</token>
+        <token>today</token>
+        <token>massive</token>
+        <token>grocery</token>
+        <token>stores</token>
+        <token>sell</token>
+        <token>but</token>
+        <token>most</token>
+        <token>customers</token>
+        <token>take</token>
+        <token>the</token>
+        <token>opportunity</token>
+        <token>to</token>
+        <token>shop</token>
+        <token>for</token>
+        <token>stap</token>
+        <token>les</token>
+        <token>or</token>
+        <token>foods</token>
+        <token>that</token>
+        <token>play</token>
+        <token>a</token>
+        <token>prominent</token>
+        <token>role</token>
+        <token>in</token>
+        <token>the</token>
+        <token>average</token>
+        <token>diet</token>
+        <token>at</token>
+        <token>the</token>
+        <token>establishments</token>
+        <token>staples</token>
+        <token>include</token>
+        <token>pasta</token>
+        <token>rice</token>
+        <token>flour</token>
+        <token>sugar</token>
+        <token>milk</token>
+        <token>meat</token>
+        <token>and</token>
+        <token>eggs</token>
+        <token>and</token>
+        <token>bread</token>
+        <token>all</token>
+        <token>the</token>
+        <token>listed</token>
+        <token>staples</token>
+        <token>are</token>
+        <token>available</token>
+        <token>in</token>
+        <token>prepackaged</token>
+        <token>containers</token>
+        <token>but</token>
+        <token>can</token>
+        <token>be</token>
+        <token>purchased</token>
+        <token>fresh</token>
+        <token>in</token>
+        <token>some</token>
+        <token>grocery</token>
+        <token>stores</token>
+        <token>wherein</token>
+        <token>employees</token>
+        <token>will</token>
+        <token>measure</token>
+        <token>and</token>
+        <token>weigh</token>
+        <token>fresh</token>
+        <token>products</token>
+        <token>and</token>
+        <token>then</token>
+        <token>provide</token>
+        <token>them</token>
+        <token>to</token>
+        <token>customers</token>
+      </tokens>
+      <tagged_tokens>
+        <tagged_token token="food" tag="NN"/>
+        <tagged_token token="while" tag="IN"/>
+        <tagged_token token="eating" tag="VBG"/>
+        <tagged_token token="at" tag="IN"/>
+        <tagged_token token="a" tag="DT"/>
+        <tagged_token token="restaurant" tag="NN"/>
+        <tagged_token token="is" tag="VBZ"/>
+        <tagged_token token="an" tag="DT"/>
+        <tagged_token token="enjoyable" tag="JJ"/>
+        <tagged_token token="and" tag="CC"/>
+        <tagged_token token="convenient" tag="JJ"/>
+        <tagged_token token="occasional" tag="JJ"/>
+        <tagged_token token="treat" tag="NN"/>
+        <tagged_token token="most" tag="RBS"/>
+        <tagged_token token="individuals" tag="NNS"/>
+        <tagged_token token="and" tag="CC"/>
+        <tagged_token token="families" tag="NNS"/>
+        <tagged_token token="prepare" tag="VBP"/>
+        <tagged_token token="their" tag="PRP$"/>
+        <tagged_token token="meals" tag="NNS"/>
+        <tagged_token token="at" tag="IN"/>
+        <tagged_token token="home" tag="NN"/>
+        <tagged_token token="to" tag="TO"/>
+        <tagged_token token="make" tag="VB"/>
+        <tagged_token token="breakfast" tag="NN"/>
+        <tagged_token token="lunch" tag="NN"/>
+        <tagged_token token="and" tag="CC"/>
+        <tagged_token token="dinner" tag="NN"/>
+        <tagged_token token="daily" tag="RB"/>
+        <tagged_token token="these" tag="DT"/>
+        <tagged_token token="persons" tag="NNS"/>
+        <tagged_token token="must" tag="MD"/>
+        <tagged_token token="have" tag="VB"/>
+        <tagged_token token="the" tag="DT"/>
+        <tagged_token token="required" tag="VBN"/>
+        <tagged_token token="foods" tag="NNS"/>
+        <tagged_token token="and" tag="CC"/>
+        <tagged_token token="ingredients" tag="NNS"/>
+        <tagged_token token="on" tag="IN"/>
+        <tagged_token token="hand" tag="NN"/>
+        <tagged_token token="and" tag="CC"/>
+        <tagged_token token="read" tag="NN"/>
+        <tagged_token token="y" tag="NN"/>
+        <tagged_token token="to" tag="TO"/>
+        <tagged_token token="go" tag="VB"/>
+        <tagged_token token="foods" tag="NNS"/>
+        <tagged_token token="and" tag="CC"/>
+        <tagged_token token="ingredients" tag="NNS"/>
+        <tagged_token token="are" tag="VBP"/>
+        <tagged_token token="typically" tag="RB"/>
+        <tagged_token token="purchased" tag="VBN"/>
+        <tagged_token token="from" tag="IN"/>
+        <tagged_token token="a" tag="DT"/>
+        <tagged_token token="grocery" tag="NN"/>
+        <tagged_token token="store" tag="NN"/>
+        <tagged_token token="or" tag="CC"/>
+        <tagged_token token="an" tag="DT"/>
+        <tagged_token token="establishment" tag="NN"/>
+        <tagged_token token="that" tag="WDT"/>
+        <tagged_token token="distributes" tag="VBZ"/>
+        <tagged_token token="foods" tag="NNS"/>
+        <tagged_token token="drinks" tag="NNS"/>
+        <tagged_token token="household" tag="NN"/>
+        <tagged_token token="products" tag="NNS"/>
+        <tagged_token token="and" tag="CC"/>
+        <tagged_token token="other" tag="JJ"/>
+        <tagged_token token="items" tag="NNS"/>
+        <tagged_token token="that" tag="WDT"/>
+        <tagged_token token="used" tag="VBN"/>
+        <tagged_token token="by" tag="IN"/>
+        <tagged_token token="the" tag="DT"/>
+        <tagged_token token="typical" tag="JJ"/>
+        <tagged_token token="consumer" tag="NN"/>
+        <tagged_token token="produce" tag="NN"/>
+        <tagged_token token="or" tag="CC"/>
+        <tagged_token token="the" tag="DT"/>
+        <tagged_token token="term" tag="NN"/>
+        <tagged_token token="used" tag="VBN"/>
+        <tagged_token token="to" tag="TO"/>
+        <tagged_token token="describe" tag="VB"/>
+        <tagged_token token="fresh" tag="JJ"/>
+        <tagged_token token="fruits" tag="NNS"/>
+        <tagged_token token="an" tag="DT"/>
+        <tagged_token token="d" tag="NN"/>
+        <tagged_token token="vegetables" tag="NNS"/>
+        <tagged_token token="is" tag="VBZ"/>
+        <tagged_token token="commonly" tag="RB"/>
+        <tagged_token token="purchased" tag="VBN"/>
+        <tagged_token token="by" tag="IN"/>
+        <tagged_token token="grocery" tag="NN"/>
+        <tagged_token token="store" tag="NN"/>
+        <tagged_token token="shoppers" tag="NNS"/>
+        <tagged_token token="in" tag="IN"/>
+        <tagged_token token="terms" tag="NNS"/>
+        <tagged_token token="of" tag="IN"/>
+        <tagged_token token="fruit" tag="NN"/>
+        <tagged_token token="most" tag="RBS"/>
+        <tagged_token token="grocery" tag="JJ"/>
+        <tagged_token token="stores" tag="NNS"/>
+        <tagged_token token="offer" tag="VBP"/>
+        <tagged_token token="bananas" tag="NNS"/>
+        <tagged_token token="apples" tag="NNS"/>
+        <tagged_token token="oranges" tag="NNS"/>
+        <tagged_token token="blackberries" tag="NNS"/>
+        <tagged_token token="raspberries" tag="NNS"/>
+        <tagged_token token="grapes" tag="NNS"/>
+        <tagged_token token="pineapples" tag="NNS"/>
+        <tagged_token token="cantaloupes" tag="NNS"/>
+        <tagged_token token="watermelons" tag="NNS"/>
+        <tagged_token token="and" tag="CC"/>
+        <tagged_token token="more" tag="JJR"/>
+        <tagged_token token="other" tag="JJ"/>
+        <tagged_token token="grocery" tag="NN"/>
+        <tagged_token token="stores" tag="NNS"/>
+        <tagged_token token="with" tag="IN"/>
+        <tagged_token token="larger" tag="JJR"/>
+        <tagged_token token="produc" tag="NN"/>
+        <tagged_token token="e" tag="NN"/>
+        <tagged_token token="selections" tag="NNS"/>
+        <tagged_token token="might" tag="MD"/>
+        <tagged_token token="offer" tag="VB"/>
+        <tagged_token token="the" tag="DT"/>
+        <tagged_token token="listed" tag="JJ"/>
+        <tagged_token token="fruits" tag="NNS"/>
+        <tagged_token token="in" tag="IN"/>
+        <tagged_token token="addition" tag="NN"/>
+        <tagged_token token="to" tag="TO"/>
+        <tagged_token token="less" tag="JJR"/>
+        <tagged_token token="common" tag="JJ"/>
+        <tagged_token token="fruits" tag="NNS"/>
+        <tagged_token token="including" tag="VBG"/>
+        <tagged_token token="mangoes" tag="NNS"/>
+        <tagged_token token="honeydews" tag="VB"/>
+        <tagged_token token="starfruits" tag="NNS"/>
+        <tagged_token token="coconuts" tag="NNS"/>
+        <tagged_token token="and" tag="CC"/>
+        <tagged_token token="more" tag="JJR"/>
+        <tagged_token token="depending" tag="VBG"/>
+        <tagged_token token="on" tag="IN"/>
+        <tagged_token token="the" tag="DT"/>
+        <tagged_token token="grocery" tag="NN"/>
+        <tagged_token token="store" tag="NN"/>
+        <tagged_token token="customers" tag="NNS"/>
+        <tagged_token token="can" tag="MD"/>
+        <tagged_token token="purchase" tag="VB"/>
+        <tagged_token token="fruits" tag="NNS"/>
+        <tagged_token token="in" tag="IN"/>
+        <tagged_token token="a" tag="DT"/>
+        <tagged_token token="few" tag="JJ"/>
+        <tagged_token token="different" tag="JJ"/>
+        <tagged_token token="ways" tag="NNS"/>
+        <tagged_token token="some" tag="DT"/>
+        <tagged_token token="stores" tag="NNS"/>
+        <tagged_token token="will" tag="MD"/>
+        <tagged_token token="charge" tag="VB"/>
+        <tagged_token token="a" tag="DT"/>
+        <tagged_token token="set" tag="NN"/>
+        <tagged_token token="amount" tag="NN"/>
+        <tagged_token token="per" tag="IN"/>
+        <tagged_token token="pound" tag="NN"/>
+        <tagged_token token="of" tag="IN"/>
+        <tagged_token token="fruit" tag="NN"/>
+        <tagged_token token="and" tag="CC"/>
+        <tagged_token token="will" tag="MD"/>
+        <tagged_token token="weigh" tag="VB"/>
+        <tagged_token token="customers" tag="NNS"/>
+        <tagged_token token="fruit" tag="VBP"/>
+        <tagged_token token="purchases" tag="NNS"/>
+        <tagged_token token="and" tag="CC"/>
+        <tagged_token token="bill" tag="NN"/>
+        <tagged_token token="them" tag="PRP"/>
+        <tagged_token token="accordingly" tag="RB"/>
+        <tagged_token token="other" tag="JJ"/>
+        <tagged_token token="stores" tag="NNS"/>
+        <tagged_token token="will" tag="MD"/>
+        <tagged_token token="charge" tag="VB"/>
+        <tagged_token token="customers" tag="NNS"/>
+        <tagged_token token="for" tag="IN"/>
+        <tagged_token token="each" tag="DT"/>
+        <tagged_token token="piece" tag="NN"/>
+        <tagged_token token="of" tag="IN"/>
+        <tagged_token token="fruit" tag="NN"/>
+        <tagged_token token="they" tag="PRP"/>
+        <tagged_token token="buy" tag="VBP"/>
+        <tagged_token token="or" tag="CC"/>
+        <tagged_token token="for" tag="IN"/>
+        <tagged_token token="bundles" tag="NNS"/>
+        <tagged_token token="of" tag="IN"/>
+        <tagged_token token="fruit" tag="NN"/>
+        <tagged_token token="a" tag="DT"/>
+        <tagged_token token="bag" tag="NN"/>
+        <tagged_token token="of" tag="IN"/>
+        <tagged_token token="bananas" tag="NNS"/>
+        <tagged_token token="a" tag="DT"/>
+        <tagged_token token="bag" tag="NN"/>
+        <tagged_token token="of" tag="IN"/>
+        <tagged_token token="apples" tag="NNS"/>
+        <tagged_token token="etc" tag="FW"/>
+        <tagged_token token="other" tag="JJ"/>
+        <tagged_token token="stores" tag="NNS"/>
+        <tagged_token token="yet" tag="RB"/>
+        <tagged_token token="will" tag="MD"/>
+        <tagged_token token="s" tag="VB"/>
+        <tagged_token token="imply" tag="VB"/>
+        <tagged_token token="charge" tag="NN"/>
+        <tagged_token token="by" tag="IN"/>
+        <tagged_token token="the" tag="DT"/>
+        <tagged_token token="container" tag="NN"/>
+        <tagged_token token="vegetables" tag="NNS"/>
+        <tagged_token token="including" tag="VBG"/>
+        <tagged_token token="lettuce" tag="VBP"/>
+        <tagged_token token="corn" tag="NN"/>
+        <tagged_token token="tomatoes" tag="NNS"/>
+        <tagged_token token="onions" tag="NNS"/>
+        <tagged_token token="celery" tag="VBP"/>
+        <tagged_token token="cucumbers" tag="NNS"/>
+        <tagged_token token="mushrooms" tag="NNS"/>
+        <tagged_token token="and" tag="CC"/>
+        <tagged_token token="more" tag="JJR"/>
+        <tagged_token token="are" tag="VBP"/>
+        <tagged_token token="also" tag="RB"/>
+        <tagged_token token="sold" tag="VBN"/>
+        <tagged_token token="at" tag="IN"/>
+        <tagged_token token="many" tag="JJ"/>
+        <tagged_token token="grocery" tag="NN"/>
+        <tagged_token token="stores" tag="NNS"/>
+        <tagged_token token="and" tag="CC"/>
+        <tagged_token token="are" tag="VBP"/>
+        <tagged_token token="purchased" tag="VBN"/>
+        <tagged_token token="similarly" tag="RB"/>
+        <tagged_token token="to" tag="TO"/>
+        <tagged_token token="the" tag="DT"/>
+        <tagged_token token="way" tag="NN"/>
+        <tagged_token token="that" tag="IN"/>
+        <tagged_token token="fruits" tag="NNS"/>
+        <tagged_token token="are" tag="VBP"/>
+        <tagged_token token="grocery" tag="JJ"/>
+        <tagged_token token="stores" tag="NNS"/>
+        <tagged_token token="typically" tag="RB"/>
+        <tagged_token token="stock" tag="NN"/>
+        <tagged_token token="more" tag="RBR"/>
+        <tagged_token token="v" tag="JJ"/>
+        <tagged_token token="egetables" tag="NNS"/>
+        <tagged_token token="than" tag="IN"/>
+        <tagged_token token="fruit" tag="NN"/>
+        <tagged_token token="at" tag="IN"/>
+        <tagged_token token="any" tag="DT"/>
+        <tagged_token token="given" tag="VBN"/>
+        <tagged_token token="time" tag="NN"/>
+        <tagged_token token="as" tag="IN"/>
+        <tagged_token token="vegetables" tag="NNS"/>
+        <tagged_token token="remain" tag="VBP"/>
+        <tagged_token token="fresh" tag="JJ"/>
+        <tagged_token token="longer" tag="JJR"/>
+        <tagged_token token="than" tag="IN"/>
+        <tagged_token token="fruits" tag="NNS"/>
+        <tagged_token token="do" tag="VBP"/>
+        <tagged_token token="generally" tag="RB"/>
+        <tagged_token token="speaking" tag="VBG"/>
+        <tagged_token token="it" tag="PRP"/>
+        <tagged_token token="take" tag="VB"/>
+        <tagged_token token="quite" tag="RB"/>
+        <tagged_token token="a" tag="DT"/>
+        <tagged_token token="while" tag="NN"/>
+        <tagged_token token="to" tag="TO"/>
+        <tagged_token token="list" tag="VB"/>
+        <tagged_token token="everything" tag="NN"/>
+        <tagged_token token="else" tag="RB"/>
+        <tagged_token token="that" tag="DT"/>
+        <tagged_token token="today" tag="NN"/>
+        <tagged_token token="massive" tag="JJ"/>
+        <tagged_token token="grocery" tag="NN"/>
+        <tagged_token token="stores" tag="NNS"/>
+        <tagged_token token="sell" tag="VBP"/>
+        <tagged_token token="but" tag="CC"/>
+        <tagged_token token="most" tag="JJS"/>
+        <tagged_token token="customers" tag="NNS"/>
+        <tagged_token token="take" tag="VBP"/>
+        <tagged_token token="the" tag="DT"/>
+        <tagged_token token="opportunity" tag="NN"/>
+        <tagged_token token="to" tag="TO"/>
+        <tagged_token token="shop" tag="VB"/>
+        <tagged_token token="for" tag="IN"/>
+        <tagged_token token="stap" tag="JJ"/>
+        <tagged_token token="les" tag="NNS"/>
+        <tagged_token token="or" tag="CC"/>
+        <tagged_token token="foods" tag="NNS"/>
+        <tagged_token token="that" tag="WDT"/>
+        <tagged_token token="play" tag="VBP"/>
+        <tagged_token token="a" tag="DT"/>
+        <tagged_token token="prominent" tag="JJ"/>
+        <tagged_token token="role" tag="NN"/>
+        <tagged_token token="in" tag="IN"/>
+        <tagged_token token="the" tag="DT"/>
+        <tagged_token token="average" tag="JJ"/>
+        <tagged_token token="diet" tag="NN"/>
+        <tagged_token token="at" tag="IN"/>
+        <tagged_token token="the" tag="DT"/>
+        <tagged_token token="establishments" tag="NNS"/>
+        <tagged_token token="staples" tag="NNS"/>
+        <tagged_token token="include" tag="VBP"/>
+        <tagged_token token="pasta" tag="JJ"/>
+        <tagged_token token="rice" tag="NN"/>
+        <tagged_token token="flour" tag="NN"/>
+        <tagged_token token="sugar" tag="NN"/>
+        <tagged_token token="milk" tag="NN"/>
+        <tagged_token token="meat" tag="NN"/>
+        <tagged_token token="and" tag="CC"/>
+        <tagged_token token="eggs" tag="NNS"/>
+        <tagged_token token="and" tag="CC"/>
+        <tagged_token token="bread" tag="VB"/>
+        <tagged_token token="all" tag="PDT"/>
+        <tagged_token token="the" tag="DT"/>
+        <tagged_token token="listed" tag="VBN"/>
+        <tagged_token token="staples" tag="NNS"/>
+        <tagged_token token="are" tag="VBP"/>
+        <tagged_token token="available" tag="JJ"/>
+        <tagged_token token="in" tag="IN"/>
+        <tagged_token token="prepackaged" tag="JJ"/>
+        <tagged_token token="containers" tag="NNS"/>
+        <tagged_token token="but" tag="CC"/>
+        <tagged_token token="can" tag="MD"/>
+        <tagged_token token="be" tag="VB"/>
+        <tagged_token token="purchased" tag="VBN"/>
+        <tagged_token token="fresh" tag="JJ"/>
+        <tagged_token token="in" tag="IN"/>
+        <tagged_token token="some" tag="DT"/>
+        <tagged_token token="grocery" tag="NN"/>
+        <tagged_token token="stores" tag="NNS"/>
+        <tagged_token token="wherein" tag="VBP"/>
+        <tagged_token token="employees" tag="NNS"/>
+        <tagged_token token="will" tag="MD"/>
+        <tagged_token token="measure" tag="VB"/>
+        <tagged_token token="and" tag="CC"/>
+        <tagged_token token="weigh" tag="VB"/>
+        <tagged_token token="fresh" tag="JJ"/>
+        <tagged_token token="products" tag="NNS"/>
+        <tagged_token token="and" tag="CC"/>
+        <tagged_token token="then" tag="RB"/>
+        <tagged_token token="provide" tag="VB"/>
+        <tagged_token token="them" tag="PRP"/>
+        <tagged_token token="to" tag="TO"/>
+        <tagged_token token="customers" tag="NNS"/>
+      </tagged_tokens>
+      <lemmas>
+        <lemma>food</lemma>
+        <lemma>while</lemma>
+        <lemma>eat</lemma>
+        <lemma>at</lemma>
+        <lemma>a</lemma>
+        <lemma>restaurant</lemma>
+        <lemma>be</lemma>
+        <lemma>an</lemma>
+        <lemma>enjoyable</lemma>
+        <lemma>and</lemma>
+        <lemma>convenient</lemma>
+        <lemma>occasional</lemma>
+        <lemma>treat</lemma>
+        <lemma>most</lemma>
+        <lemma>individual</lemma>
+        <lemma>and</lemma>
+        <lemma>family</lemma>
+        <lemma>prepare</lemma>
+        <lemma>their</lemma>
+        <lemma>meal</lemma>
+        <lemma>at</lemma>
+        <lemma>home</lemma>
+        <lemma>to</lemma>
+        <lemma>make</lemma>
+        <lemma>breakfast</lemma>
+        <lemma>lunch</lemma>
+        <lemma>and</lemma>
+        <lemma>dinner</lemma>
+        <lemma>daily</lemma>
+        <lemma>these</lemma>
+        <lemma>person</lemma>
+        <lemma>must</lemma>
+        <lemma>have</lemma>
+        <lemma>the</lemma>
+        <lemma>require</lemma>
+        <lemma>food</lemma>
+        <lemma>and</lemma>
+        <lemma>ingredient</lemma>
+        <lemma>on</lemma>
+        <lemma>hand</lemma>
+        <lemma>and</lemma>
+        <lemma>read</lemma>
+        <lemma>y</lemma>
+        <lemma>to</lemma>
+        <lemma>go</lemma>
+        <lemma>food</lemma>
+        <lemma>and</lemma>
+        <lemma>ingredient</lemma>
+        <lemma>be</lemma>
+        <lemma>typically</lemma>
+        <lemma>purchase</lemma>
+        <lemma>from</lemma>
+        <lemma>a</lemma>
+        <lemma>grocery</lemma>
+        <lemma>store</lemma>
+        <lemma>or</lemma>
+        <lemma>an</lemma>
+        <lemma>establishment</lemma>
+        <lemma>that</lemma>
+        <lemma>distribute</lemma>
+        <lemma>food</lemma>
+        <lemma>drink</lemma>
+        <lemma>household</lemma>
+        <lemma>product</lemma>
+        <lemma>and</lemma>
+        <lemma>other</lemma>
+        <lemma>item</lemma>
+        <lemma>that</lemma>
+        <lemma>use</lemma>
+        <lemma>by</lemma>
+        <lemma>the</lemma>
+        <lemma>typical</lemma>
+        <lemma>consumer</lemma>
+        <lemma>produce</lemma>
+        <lemma>or</lemma>
+        <lemma>the</lemma>
+        <lemma>term</lemma>
+        <lemma>use</lemma>
+        <lemma>to</lemma>
+        <lemma>describe</lemma>
+        <lemma>fresh</lemma>
+        <lemma>fruit</lemma>
+        <lemma>an</lemma>
+        <lemma>d</lemma>
+        <lemma>vegetable</lemma>
+        <lemma>be</lemma>
+        <lemma>commonly</lemma>
+        <lemma>purchase</lemma>
+        <lemma>by</lemma>
+        <lemma>grocery</lemma>
+        <lemma>store</lemma>
+        <lemma>shopper</lemma>
+        <lemma>in</lemma>
+        <lemma>term</lemma>
+        <lemma>of</lemma>
+        <lemma>fruit</lemma>
+        <lemma>most</lemma>
+        <lemma>grocery</lemma>
+        <lemma>store</lemma>
+        <lemma>offer</lemma>
+        <lemma>banana</lemma>
+        <lemma>apple</lemma>
+        <lemma>orange</lemma>
+        <lemma>blackberry</lemma>
+        <lemma>raspberry</lemma>
+        <lemma>grape</lemma>
+        <lemma>pineapple</lemma>
+        <lemma>cantaloupe</lemma>
+        <lemma>watermelon</lemma>
+        <lemma>and</lemma>
+        <lemma>more</lemma>
+        <lemma>other</lemma>
+        <lemma>grocery</lemma>
+        <lemma>store</lemma>
+        <lemma>with</lemma>
+        <lemma>large</lemma>
+        <lemma>produc</lemma>
+        <lemma>e</lemma>
+        <lemma>selection</lemma>
+        <lemma>might</lemma>
+        <lemma>offer</lemma>
+        <lemma>the</lemma>
+        <lemma>listed</lemma>
+        <lemma>fruit</lemma>
+        <lemma>in</lemma>
+        <lemma>addition</lemma>
+        <lemma>to</lemma>
+        <lemma>less</lemma>
+        <lemma>common</lemma>
+        <lemma>fruit</lemma>
+        <lemma>include</lemma>
+        <lemma>mango</lemma>
+        <lemma>honeydews</lemma>
+        <lemma>starfruits</lemma>
+        <lemma>coconut</lemma>
+        <lemma>and</lemma>
+        <lemma>more</lemma>
+        <lemma>depend</lemma>
+        <lemma>on</lemma>
+        <lemma>the</lemma>
+        <lemma>grocery</lemma>
+        <lemma>store</lemma>
+        <lemma>customer</lemma>
+        <lemma>can</lemma>
+        <lemma>purchase</lemma>
+        <lemma>fruit</lemma>
+        <lemma>in</lemma>
+        <lemma>a</lemma>
+        <lemma>few</lemma>
+        <lemma>different</lemma>
+        <lemma>way</lemma>
+        <lemma>some</lemma>
+        <lemma>store</lemma>
+        <lemma>will</lemma>
+        <lemma>charge</lemma>
+        <lemma>a</lemma>
+        <lemma>set</lemma>
+        <lemma>amount</lemma>
+        <lemma>per</lemma>
+        <lemma>pound</lemma>
+        <lemma>of</lemma>
+        <lemma>fruit</lemma>
+        <lemma>and</lemma>
+        <lemma>will</lemma>
+        <lemma>weigh</lemma>
+        <lemma>customer</lemma>
+        <lemma>fruit</lemma>
+        <lemma>purchase</lemma>
+        <lemma>and</lemma>
+        <lemma>bill</lemma>
+        <lemma>them</lemma>
+        <lemma>accordingly</lemma>
+        <lemma>other</lemma>
+        <lemma>store</lemma>
+        <lemma>will</lemma>
+        <lemma>charge</lemma>
+        <lemma>customer</lemma>
+        <lemma>for</lemma>
+        <lemma>each</lemma>
+        <lemma>piece</lemma>
+        <lemma>of</lemma>
+        <lemma>fruit</lemma>
+        <lemma>they</lemma>
+        <lemma>buy</lemma>
+        <lemma>or</lemma>
+        <lemma>for</lemma>
+        <lemma>bundle</lemma>
+        <lemma>of</lemma>
+        <lemma>fruit</lemma>
+        <lemma>a</lemma>
+        <lemma>bag</lemma>
+        <lemma>of</lemma>
+        <lemma>banana</lemma>
+        <lemma>a</lemma>
+        <lemma>bag</lemma>
+        <lemma>of</lemma>
+        <lemma>apple</lemma>
+        <lemma>etc</lemma>
+        <lemma>other</lemma>
+        <lemma>store</lemma>
+        <lemma>yet</lemma>
+        <lemma>will</lemma>
+        <lemma>s</lemma>
+        <lemma>imply</lemma>
+        <lemma>charge</lemma>
+        <lemma>by</lemma>
+        <lemma>the</lemma>
+        <lemma>container</lemma>
+        <lemma>vegetable</lemma>
+        <lemma>include</lemma>
+        <lemma>lettuce</lemma>
+        <lemma>corn</lemma>
+        <lemma>tomato</lemma>
+        <lemma>onion</lemma>
+        <lemma>celery</lemma>
+        <lemma>cucumber</lemma>
+        <lemma>mushroom</lemma>
+        <lemma>and</lemma>
+        <lemma>more</lemma>
+        <lemma>be</lemma>
+        <lemma>also</lemma>
+        <lemma>sell</lemma>
+        <lemma>at</lemma>
+        <lemma>many</lemma>
+        <lemma>grocery</lemma>
+        <lemma>store</lemma>
+        <lemma>and</lemma>
+        <lemma>be</lemma>
+        <lemma>purchase</lemma>
+        <lemma>similarly</lemma>
+        <lemma>to</lemma>
+        <lemma>the</lemma>
+        <lemma>way</lemma>
+        <lemma>that</lemma>
+        <lemma>fruit</lemma>
+        <lemma>be</lemma>
+        <lemma>grocery</lemma>
+        <lemma>store</lemma>
+        <lemma>typically</lemma>
+        <lemma>stock</lemma>
+        <lemma>more</lemma>
+        <lemma>v</lemma>
+        <lemma>egetables</lemma>
+        <lemma>than</lemma>
+        <lemma>fruit</lemma>
+        <lemma>at</lemma>
+        <lemma>any</lemma>
+        <lemma>give</lemma>
+        <lemma>time</lemma>
+        <lemma>a</lemma>
+        <lemma>vegetable</lemma>
+        <lemma>remain</lemma>
+        <lemma>fresh</lemma>
+        <lemma>long</lemma>
+        <lemma>than</lemma>
+        <lemma>fruit</lemma>
+        <lemma>do</lemma>
+        <lemma>generally</lemma>
+        <lemma>speak</lemma>
+        <lemma>it</lemma>
+        <lemma>take</lemma>
+        <lemma>quite</lemma>
+        <lemma>a</lemma>
+        <lemma>while</lemma>
+        <lemma>to</lemma>
+        <lemma>list</lemma>
+        <lemma>everything</lemma>
+        <lemma>else</lemma>
+        <lemma>that</lemma>
+        <lemma>today</lemma>
+        <lemma>massive</lemma>
+        <lemma>grocery</lemma>
+        <lemma>store</lemma>
+        <lemma>sell</lemma>
+        <lemma>but</lemma>
+        <lemma>most</lemma>
+        <lemma>customer</lemma>
+        <lemma>take</lemma>
+        <lemma>the</lemma>
+        <lemma>opportunity</lemma>
+        <lemma>to</lemma>
+        <lemma>shop</lemma>
+        <lemma>for</lemma>
+        <lemma>stap</lemma>
+        <lemma>le</lemma>
+        <lemma>or</lemma>
+        <lemma>food</lemma>
+        <lemma>that</lemma>
+        <lemma>play</lemma>
+        <lemma>a</lemma>
+        <lemma>prominent</lemma>
+        <lemma>role</lemma>
+        <lemma>in</lemma>
+        <lemma>the</lemma>
+        <lemma>average</lemma>
+        <lemma>diet</lemma>
+        <lemma>at</lemma>
+        <lemma>the</lemma>
+        <lemma>establishment</lemma>
+        <lemma>staple</lemma>
+        <lemma>include</lemma>
+        <lemma>pasta</lemma>
+        <lemma>rice</lemma>
+        <lemma>flour</lemma>
+        <lemma>sugar</lemma>
+        <lemma>milk</lemma>
+        <lemma>meat</lemma>
+        <lemma>and</lemma>
+        <lemma>egg</lemma>
+        <lemma>and</lemma>
+        <lemma>bread</lemma>
+        <lemma>all</lemma>
+        <lemma>the</lemma>
+        <lemma>list</lemma>
+        <lemma>staple</lemma>
+        <lemma>be</lemma>
+        <lemma>available</lemma>
+        <lemma>in</lemma>
+        <lemma>prepackaged</lemma>
+        <lemma>container</lemma>
+        <lemma>but</lemma>
+        <lemma>can</lemma>
+        <lemma>be</lemma>
+        <lemma>purchase</lemma>
+        <lemma>fresh</lemma>
+        <lemma>in</lemma>
+        <lemma>some</lemma>
+        <lemma>grocery</lemma>
+        <lemma>store</lemma>
+        <lemma>wherein</lemma>
+        <lemma>employee</lemma>
+        <lemma>will</lemma>
+        <lemma>measure</lemma>
+        <lemma>and</lemma>
+        <lemma>weigh</lemma>
+        <lemma>fresh</lemma>
+        <lemma>product</lemma>
+        <lemma>and</lemma>
+        <lemma>then</lemma>
+        <lemma>provide</lemma>
+        <lemma>them</lemma>
+        <lemma>to</lemma>
+        <lemma>customer</lemma>
+      </lemmas>
+    </file>
+    <file name="cookingtext.docx" mtime="1744910014.498312">
+      <raw_text>Preparing food
+Jack was hungry. He walked to the kitchen. He got out some eggs. He took out some oil. He placed a skillet on the stove. Next, he turned on the heat. He poured the oil into the skillet. He cracked the eggs into a bowl. He stirred the eggs. Then, he poured them into the hot skillet. He waited while the eggs cooked. They cooked for two minutes. He heard them cooking. They popped in the oil.
+Next, Jack put the eggs on a plate. He placed the plate on the dining room table. Jack loved looking at his eggs. They looked pretty on the white plate. He sat down in the large wooden chair. He thought about the day ahead. He ate the eggs with a spoon. They were good.
+He washed the plate with dishwashing soap. Then, he washed the pan. He got a sponge damp. Finally, he wiped down the table. Next, Jack watched TV.
+
+</raw_text>
+      <tokens>
+        <token>preparing</token>
+        <token>food</token>
+        <token>jack</token>
+        <token>was</token>
+        <token>hungry</token>
+        <token>he</token>
+        <token>walked</token>
+        <token>to</token>
+        <token>the</token>
+        <token>kitchen</token>
+        <token>he</token>
+        <token>got</token>
+        <token>out</token>
+        <token>some</token>
+        <token>eggs</token>
+        <token>he</token>
+        <token>took</token>
+        <token>out</token>
+        <token>some</token>
+        <token>oil</token>
+        <token>he</token>
+        <token>placed</token>
+        <token>a</token>
+        <token>skillet</token>
+        <token>on</token>
+        <token>the</token>
+        <token>stove</token>
+        <token>next</token>
+        <token>he</token>
+        <token>turned</token>
+        <token>on</token>
+        <token>the</token>
+        <token>heat</token>
+        <token>he</token>
+        <token>poured</token>
+        <token>the</token>
+        <token>oil</token>
+        <token>into</token>
+        <token>the</token>
+        <token>skillet</token>
+        <token>he</token>
+        <token>cracked</token>
+        <token>the</token>
+        <token>eggs</token>
+        <token>into</token>
+        <token>a</token>
+        <token>bowl</token>
+        <token>he</token>
+        <token>stirred</token>
+        <token>the</token>
+        <token>eggs</token>
+        <token>then</token>
+        <token>he</token>
+        <token>poured</token>
+        <token>them</token>
+        <token>into</token>
+        <token>the</token>
+        <token>hot</token>
+        <token>skillet</token>
+        <token>he</token>
+        <token>waited</token>
+        <token>while</token>
+        <token>the</token>
+        <token>eggs</token>
+        <token>cooked</token>
+        <token>they</token>
+        <token>cooked</token>
+        <token>for</token>
+        <token>two</token>
+        <token>minutes</token>
+        <token>he</token>
+        <token>heard</token>
+        <token>them</token>
+        <token>cooking</token>
+        <token>they</token>
+        <token>popped</token>
+        <token>in</token>
+        <token>the</token>
+        <token>oil</token>
+        <token>next</token>
+        <token>jack</token>
+        <token>put</token>
+        <token>the</token>
+        <token>eggs</token>
+        <token>on</token>
+        <token>a</token>
+        <token>plate</token>
+        <token>he</token>
+        <token>placed</token>
+        <token>the</token>
+        <token>plate</token>
+        <token>on</token>
+        <token>the</token>
+        <token>dining</token>
+        <token>room</token>
+        <token>table</token>
+        <token>jack</token>
+        <token>loved</token>
+        <token>looking</token>
+        <token>at</token>
+        <token>his</token>
+        <token>eggs</token>
+        <token>they</token>
+        <token>looked</token>
+        <token>pretty</token>
+        <token>on</token>
+        <token>the</token>
+        <token>white</token>
+        <token>plate</token>
+        <token>he</token>
+        <token>sat</token>
+        <token>down</token>
+        <token>in</token>
+        <token>the</token>
+        <token>large</token>
+        <token>wooden</token>
+        <token>chair</token>
+        <token>he</token>
+        <token>thought</token>
+        <token>about</token>
+        <token>the</token>
+        <token>day</token>
+        <token>ahead</token>
+        <token>he</token>
+        <token>ate</token>
+        <token>the</token>
+        <token>eggs</token>
+        <token>with</token>
+        <token>a</token>
+        <token>spoon</token>
+        <token>they</token>
+        <token>were</token>
+        <token>good</token>
+        <token>he</token>
+        <token>washed</token>
+        <token>the</token>
+        <token>plate</token>
+        <token>with</token>
+        <token>dishwashing</token>
+        <token>soap</token>
+        <token>then</token>
+        <token>he</token>
+        <token>washed</token>
+        <token>the</token>
+        <token>pan</token>
+        <token>he</token>
+        <token>got</token>
+        <token>a</token>
+        <token>sponge</token>
+        <token>damp</token>
+        <token>finally</token>
+        <token>he</token>
+        <token>wiped</token>
+        <token>down</token>
+        <token>the</token>
+        <token>table</token>
+        <token>next</token>
+        <token>jack</token>
+        <token>watched</token>
+        <token>tv</token>
+      </tokens>
+      <tagged_tokens>
+        <tagged_token token="preparing" tag="VBG"/>
+        <tagged_token token="food" tag="NN"/>
+        <tagged_token token="jack" tag="NN"/>
+        <tagged_token token="was" tag="VBD"/>
+        <tagged_token token="hungry" tag="JJ"/>
+        <tagged_token token="he" tag="PRP"/>
+        <tagged_token token="walked" tag="VBD"/>
+        <tagged_token token="to" tag="TO"/>
+        <tagged_token token="the" tag="DT"/>
+        <tagged_token token="kitchen" tag="NN"/>
+        <tagged_token token="he" tag="PRP"/>
+        <tagged_token token="got" tag="VBD"/>
+        <tagged_token token="out" tag="RP"/>
+        <tagged_token token="some" tag="DT"/>
+        <tagged_token token="eggs" tag="NNS"/>
+        <tagged_token token="he" tag="PRP"/>
+        <tagged_token token="took" tag="VBD"/>
+        <tagged_token token="out" tag="RP"/>
+        <tagged_token token="some" tag="DT"/>
+        <tagged_token token="oil" tag="NN"/>
+        <tagged_token token="he" tag="PRP"/>
+        <tagged_token token="placed" tag="VBD"/>
+        <tagged_token token="a" tag="DT"/>
+        <tagged_token token="skillet" tag="NN"/>
+        <tagged_token token="on" tag="IN"/>
+        <tagged_token token="the" tag="DT"/>
+        <tagged_token token="stove" tag="NN"/>
+        <tagged_token token="next" tag="IN"/>
+        <tagged_token token="he" tag="PRP"/>
+        <tagged_token token="turned" tag="VBD"/>
+        <tagged_token token="on" tag="IN"/>
+        <tagged_token token="the" tag="DT"/>
+        <tagged_token token="heat" tag="NN"/>
+        <tagged_token token="he" tag="PRP"/>
+        <tagged_token token="poured" tag="VBD"/>
+        <tagged_token token="the" tag="DT"/>
+        <tagged_token token="oil" tag="NN"/>
+        <tagged_token token="into" tag="IN"/>
+        <tagged_token token="the" tag="DT"/>
+        <tagged_token token="skillet" tag="NN"/>
+        <tagged_token token="he" tag="PRP"/>
+        <tagged_token token="cracked" tag="VBD"/>
+        <tagged_token token="the" tag="DT"/>
+        <tagged_token token="eggs" tag="NNS"/>
+        <tagged_token token="into" tag="IN"/>
+        <tagged_token token="a" tag="DT"/>
+        <tagged_token token="bowl" tag="NN"/>
+        <tagged_token token="he" tag="PRP"/>
+        <tagged_token token="stirred" tag="VBD"/>
+        <tagged_token token="the" tag="DT"/>
+        <tagged_token token="eggs" tag="NNS"/>
+        <tagged_token token="then" tag="RB"/>
+        <tagged_token token="he" tag="PRP"/>
+        <tagged_token token="poured" tag="VBD"/>
+        <tagged_token token="them" tag="PRP"/>
+        <tagged_token token="into" tag="IN"/>
+        <tagged_token token="the" tag="DT"/>
+        <tagged_token token="hot" tag="JJ"/>
+        <tagged_token token="skillet" tag="NN"/>
+        <tagged_token token="he" tag="PRP"/>
+        <tagged_token token="waited" tag="VBD"/>
+        <tagged_token token="while" tag="IN"/>
+        <tagged_token token="the" tag="DT"/>
+        <tagged_token token="eggs" tag="NNS"/>
+        <tagged_token token="cooked" tag="VBD"/>
+        <tagged_token token="they" tag="PRP"/>
+        <tagged_token token="cooked" tag="VBD"/>
+        <tagged_token token="for" tag="IN"/>
+        <tagged_token token="two" tag="CD"/>
+        <tagged_token token="minutes" tag="NNS"/>
+        <tagged_token token="he" tag="PRP"/>
+        <tagged_token token="heard" tag="VBD"/>
+        <tagged_token token="them" tag="PRP"/>
+        <tagged_token token="cooking" tag="VBG"/>
+        <tagged_token token="they" tag="PRP"/>
+        <tagged_token token="popped" tag="VBD"/>
+        <tagged_token token="in" tag="IN"/>
+        <tagged_token token="the" tag="DT"/>
+        <tagged_token token="oil" tag="NN"/>
+        <tagged_token token="next" tag="JJ"/>
+        <tagged_token token="jack" tag="NN"/>
+        <tagged_token token="put" tag="VBD"/>
+        <tagged_token token="the" tag="DT"/>
+        <tagged_token token="eggs" tag="NNS"/>
+        <tagged_token token="on" tag="IN"/>
+        <tagged_token token="a" tag="DT"/>
+        <tagged_token token="plate" tag="NN"/>
+        <tagged_token token="he" tag="PRP"/>
+        <tagged_token token="placed" tag="VBD"/>
+        <tagged_token token="the" tag="DT"/>
+        <tagged_token token="plate" tag="NN"/>
+        <tagged_token token="on" tag="IN"/>
+        <tagged_token token="the" tag="DT"/>
+        <tagged_token token="dining" tag="NN"/>
+        <tagged_token token="room" tag="NN"/>
+        <tagged_token token="table" tag="JJ"/>
+        <tagged_token token="jack" tag="NN"/>
+        <tagged_token token="loved" tag="VBD"/>
+        <tagged_token token="looking" tag="VBG"/>
+        <tagged_token token="at" tag="IN"/>
+        <tagged_token token="his" tag="PRP$"/>
+        <tagged_token token="eggs" tag="NNS"/>
+        <tagged_token token="they" tag="PRP"/>
+        <tagged_token token="looked" tag="VBD"/>
+        <tagged_token token="pretty" tag="RB"/>
+        <tagged_token token="on" tag="IN"/>
+        <tagged_token token="the" tag="DT"/>
+        <tagged_token token="white" tag="JJ"/>
+        <tagged_token token="plate" tag="NN"/>
+        <tagged_token token="he" tag="PRP"/>
+        <tagged_token token="sat" tag="VBD"/>
+        <tagged_token token="down" tag="RB"/>
+        <tagged_token token="in" tag="IN"/>
+        <tagged_token token="the" tag="DT"/>
+        <tagged_token token="large" tag="JJ"/>
+        <tagged_token token="wooden" tag="JJ"/>
+        <tagged_token token="chair" tag="NN"/>
+        <tagged_token token="he" tag="PRP"/>
+        <tagged_token token="thought" tag="VBD"/>
+        <tagged_token token="about" tag="IN"/>
+        <tagged_token token="the" tag="DT"/>
+        <tagged_token token="day" tag="NN"/>
+        <tagged_token token="ahead" tag="RB"/>
+        <tagged_token token="he" tag="PRP"/>
+        <tagged_token token="ate" tag="VB"/>
+        <tagged_token token="the" tag="DT"/>
+        <tagged_token token="eggs" tag="NNS"/>
+        <tagged_token token="with" tag="IN"/>
+        <tagged_token token="a" tag="DT"/>
+        <tagged_token token="spoon" tag="NN"/>
+        <tagged_token token="they" tag="PRP"/>
+        <tagged_token token="were" tag="VBD"/>
+        <tagged_token token="good" tag="JJ"/>
+        <tagged_token token="he" tag="PRP"/>
+        <tagged_token token="washed" tag="VBD"/>
+        <tagged_token token="the" tag="DT"/>
+        <tagged_token token="plate" tag="NN"/>
+        <tagged_token token="with" tag="IN"/>
+        <tagged_token token="dishwashing" tag="VBG"/>
+        <tagged_token token="soap" tag="NN"/>
+        <tagged_token token="then" tag="RB"/>
+        <tagged_token token="he" tag="PRP"/>
+        <tagged_token token="washed" tag="VBD"/>
+        <tagged_token token="the" tag="DT"/>
+        <tagged_token token="pan" tag="NN"/>
+        <tagged_token token="he" tag="PRP"/>
+        <tagged_token token="got" tag="VBD"/>
+        <tagged_token token="a" tag="DT"/>
+        <tagged_token token="sponge" tag="NN"/>
+        <tagged_token token="damp" tag="NN"/>
+        <tagged_token token="finally" tag="RB"/>
+        <tagged_token token="he" tag="PRP"/>
+        <tagged_token token="wiped" tag="VBD"/>
+        <tagged_token token="down" tag="RP"/>
+        <tagged_token token="the" tag="DT"/>
+        <tagged_token token="table" tag="JJ"/>
+        <tagged_token token="next" tag="JJ"/>
+        <tagged_token token="jack" tag="NN"/>
+        <tagged_token token="watched" tag="VBD"/>
+        <tagged_token token="tv" tag="NN"/>
+      </tagged_tokens>
+      <lemmas>
+        <lemma>prepare</lemma>
+        <lemma>food</lemma>
+        <lemma>jack</lemma>
+        <lemma>be</lemma>
+        <lemma>hungry</lemma>
+        <lemma>he</lemma>
+        <lemma>walk</lemma>
+        <lemma>to</lemma>
+        <lemma>the</lemma>
+        <lemma>kitchen</lemma>
+        <lemma>he</lemma>
+        <lemma>get</lemma>
+        <lemma>out</lemma>
+        <lemma>some</lemma>
+        <lemma>egg</lemma>
+        <lemma>he</lemma>
+        <lemma>take</lemma>
+        <lemma>out</lemma>
+        <lemma>some</lemma>
+        <lemma>oil</lemma>
+        <lemma>he</lemma>
+        <lemma>place</lemma>
+        <lemma>a</lemma>
+        <lemma>skillet</lemma>
+        <lemma>on</lemma>
+        <lemma>the</lemma>
+        <lemma>stove</lemma>
+        <lemma>next</lemma>
+        <lemma>he</lemma>
+        <lemma>turn</lemma>
+        <lemma>on</lemma>
+        <lemma>the</lemma>
+        <lemma>heat</lemma>
+        <lemma>he</lemma>
+        <lemma>pour</lemma>
+        <lemma>the</lemma>
+        <lemma>oil</lemma>
+        <lemma>into</lemma>
+        <lemma>the</lemma>
+        <lemma>skillet</lemma>
+        <lemma>he</lemma>
+        <lemma>crack</lemma>
+        <lemma>the</lemma>
+        <lemma>egg</lemma>
+        <lemma>into</lemma>
+        <lemma>a</lemma>
+        <lemma>bowl</lemma>
+        <lemma>he</lemma>
+        <lemma>stir</lemma>
+        <lemma>the</lemma>
+        <lemma>egg</lemma>
+        <lemma>then</lemma>
+        <lemma>he</lemma>
+        <lemma>pour</lemma>
+        <lemma>them</lemma>
+        <lemma>into</lemma>
+        <lemma>the</lemma>
+        <lemma>hot</lemma>
+        <lemma>skillet</lemma>
+        <lemma>he</lemma>
+        <lemma>wait</lemma>
+        <lemma>while</lemma>
+        <lemma>the</lemma>
+        <lemma>egg</lemma>
+        <lemma>cook</lemma>
+        <lemma>they</lemma>
+        <lemma>cook</lemma>
+        <lemma>for</lemma>
+        <lemma>two</lemma>
+        <lemma>minute</lemma>
+        <lemma>he</lemma>
+        <lemma>hear</lemma>
+        <lemma>them</lemma>
+        <lemma>cook</lemma>
+        <lemma>they</lemma>
+        <lemma>pop</lemma>
+        <lemma>in</lemma>
+        <lemma>the</lemma>
+        <lemma>oil</lemma>
+        <lemma>next</lemma>
+        <lemma>jack</lemma>
+        <lemma>put</lemma>
+        <lemma>the</lemma>
+        <lemma>egg</lemma>
+        <lemma>on</lemma>
+        <lemma>a</lemma>
+        <lemma>plate</lemma>
+        <lemma>he</lemma>
+        <lemma>place</lemma>
+        <lemma>the</lemma>
+        <lemma>plate</lemma>
+        <lemma>on</lemma>
+        <lemma>the</lemma>
+        <lemma>dining</lemma>
+        <lemma>room</lemma>
+        <lemma>table</lemma>
+        <lemma>jack</lemma>
+        <lemma>love</lemma>
+        <lemma>look</lemma>
+        <lemma>at</lemma>
+        <lemma>his</lemma>
+        <lemma>egg</lemma>
+        <lemma>they</lemma>
+        <lemma>look</lemma>
+        <lemma>pretty</lemma>
+        <lemma>on</lemma>
+        <lemma>the</lemma>
+        <lemma>white</lemma>
+        <lemma>plate</lemma>
+        <lemma>he</lemma>
+        <lemma>sit</lemma>
+        <lemma>down</lemma>
+        <lemma>in</lemma>
+        <lemma>the</lemma>
+        <lemma>large</lemma>
+        <lemma>wooden</lemma>
+        <lemma>chair</lemma>
+        <lemma>he</lemma>
+        <lemma>think</lemma>
+        <lemma>about</lemma>
+        <lemma>the</lemma>
+        <lemma>day</lemma>
+        <lemma>ahead</lemma>
+        <lemma>he</lemma>
+        <lemma>eat</lemma>
+        <lemma>the</lemma>
+        <lemma>egg</lemma>
+        <lemma>with</lemma>
+        <lemma>a</lemma>
+        <lemma>spoon</lemma>
+        <lemma>they</lemma>
+        <lemma>be</lemma>
+        <lemma>good</lemma>
+        <lemma>he</lemma>
+        <lemma>wash</lemma>
+        <lemma>the</lemma>
+        <lemma>plate</lemma>
+        <lemma>with</lemma>
+        <lemma>dishwashing</lemma>
+        <lemma>soap</lemma>
+        <lemma>then</lemma>
+        <lemma>he</lemma>
+        <lemma>wash</lemma>
+        <lemma>the</lemma>
+        <lemma>pan</lemma>
+        <lemma>he</lemma>
+        <lemma>get</lemma>
+        <lemma>a</lemma>
+        <lemma>sponge</lemma>
+        <lemma>damp</lemma>
+        <lemma>finally</lemma>
+        <lemma>he</lemma>
+        <lemma>wipe</lemma>
+        <lemma>down</lemma>
+        <lemma>the</lemma>
+        <lemma>table</lemma>
+        <lemma>next</lemma>
+        <lemma>jack</lemma>
+        <lemma>watch</lemma>
+        <lemma>tv</lemma>
+      </lemmas>
+    </file>
+    <file name="recipe1.txt" mtime="1744888841.6386247">
+      <raw_text>Simple Chocolate Cake Recipe
+
+Ingredients:
+- 2 cups all-purpose flour
+- 2 cups sugar
+- 3/4 cup unsweetened cocoa powder
+- 2 teaspoons baking soda
+- 1 teaspoon baking powder
+- 1 teaspoon salt
+- 1 cup buttermilk
+- 1/2 cup vegetable oil
+- 2 large eggs
+- 1 teaspoon vanilla extract
+- 1 cup boiling water
+
+Instructions:
+1. Preheat oven to 350 degrees F (175 degrees C). Grease and flour two 9-inch round cake pans.
+2. In a large bowl, stir together the flour, sugar, cocoa powder, baking soda, baking powder and salt.
+3. Add the buttermilk, oil, eggs, and vanilla extract. Beat on medium speed for 2 minutes.
+4. Stir in the boiling water (batter will be thin).
+5. Pour evenly into the prepared pans.
+6. Bake for 30 to 35 minutes, or until a wooden skewer inserted into the center comes out clean.
+7. Let cool in pans for 10 minutes before removing to a wire rack to cool completely. </raw_text>
+      <tokens>
+        <token>simple</token>
+        <token>chocolate</token>
+        <token>cake</token>
+        <token>recipe</token>
+        <token>ingredients</token>
+        <token>cups</token>
+        <token>flour</token>
+        <token>cups</token>
+        <token>sugar</token>
+        <token>cup</token>
+        <token>unsweetened</token>
+        <token>cocoa</token>
+        <token>powder</token>
+        <token>teaspoons</token>
+        <token>baking</token>
+        <token>soda</token>
+        <token>teaspoon</token>
+        <token>baking</token>
+        <token>powder</token>
+        <token>teaspoon</token>
+        <token>salt</token>
+        <token>cup</token>
+        <token>buttermilk</token>
+        <token>cup</token>
+        <token>vegetable</token>
+        <token>oil</token>
+        <token>large</token>
+        <token>eggs</token>
+        <token>teaspoon</token>
+        <token>vanilla</token>
+        <token>extract</token>
+        <token>cup</token>
+        <token>boiling</token>
+        <token>water</token>
+        <token>instructions</token>
+        <token>preheat</token>
+        <token>oven</token>
+        <token>to</token>
+        <token>degrees</token>
+        <token>f</token>
+        <token>degrees</token>
+        <token>c</token>
+        <token>grease</token>
+        <token>and</token>
+        <token>flour</token>
+        <token>two</token>
+        <token>round</token>
+        <token>cake</token>
+        <token>pans</token>
+        <token>in</token>
+        <token>a</token>
+        <token>large</token>
+        <token>bowl</token>
+        <token>stir</token>
+        <token>together</token>
+        <token>the</token>
+        <token>flour</token>
+        <token>sugar</token>
+        <token>cocoa</token>
+        <token>powder</token>
+        <token>baking</token>
+        <token>soda</token>
+        <token>baking</token>
+        <token>powder</token>
+        <token>and</token>
+        <token>salt</token>
+        <token>add</token>
+        <token>the</token>
+        <token>buttermilk</token>
+        <token>oil</token>
+        <token>eggs</token>
+        <token>and</token>
+        <token>vanilla</token>
+        <token>extract</token>
+        <token>beat</token>
+        <token>on</token>
+        <token>medium</token>
+        <token>speed</token>
+        <token>for</token>
+        <token>minutes</token>
+        <token>stir</token>
+        <token>in</token>
+        <token>the</token>
+        <token>boiling</token>
+        <token>water</token>
+        <token>batter</token>
+        <token>will</token>
+        <token>be</token>
+        <token>thin</token>
+        <token>pour</token>
+        <token>evenly</token>
+        <token>into</token>
+        <token>the</token>
+        <token>prepared</token>
+        <token>pans</token>
+        <token>bake</token>
+        <token>for</token>
+        <token>to</token>
+        <token>minutes</token>
+        <token>or</token>
+        <token>until</token>
+        <token>a</token>
+        <token>wooden</token>
+        <token>skewer</token>
+        <token>inserted</token>
+        <token>into</token>
+        <token>the</token>
+        <token>center</token>
+        <token>comes</token>
+        <token>out</token>
+        <token>clean</token>
+        <token>let</token>
+        <token>cool</token>
+        <token>in</token>
+        <token>pans</token>
+        <token>for</token>
+        <token>minutes</token>
+        <token>before</token>
+        <token>removing</token>
+        <token>to</token>
+        <token>a</token>
+        <token>wire</token>
+        <token>rack</token>
+        <token>to</token>
+        <token>cool</token>
+        <token>completely</token>
+      </tokens>
+      <tagged_tokens>
+        <tagged_token token="simple" tag="JJ"/>
+        <tagged_token token="chocolate" tag="NN"/>
+        <tagged_token token="cake" tag="NN"/>
+        <tagged_token token="recipe" tag="NN"/>
+        <tagged_token token="ingredients" tag="NNS"/>
+        <tagged_token token="cups" tag="VBP"/>
+        <tagged_token token="flour" tag="JJ"/>
+        <tagged_token token="cups" tag="NN"/>
+        <tagged_token token="sugar" tag="NN"/>
+        <tagged_token token="cup" tag="NN"/>
+        <tagged_token token="unsweetened" tag="VBD"/>
+        <tagged_token token="cocoa" tag="JJ"/>
+        <tagged_token token="powder" tag="NN"/>
+        <tagged_token token="teaspoons" tag="NNS"/>
+        <tagged_token token="baking" tag="VBG"/>
+        <tagged_token token="soda" tag="NN"/>
+        <tagged_token token="teaspoon" tag="NN"/>
+        <tagged_token token="baking" tag="VBG"/>
+        <tagged_token token="powder" tag="NN"/>
+        <tagged_token token="teaspoon" tag="NN"/>
+        <tagged_token token="salt" tag="VBD"/>
+        <tagged_token token="cup" tag="JJ"/>
+        <tagged_token token="buttermilk" tag="NN"/>
+        <tagged_token token="cup" tag="NN"/>
+        <tagged_token token="vegetable" tag="JJ"/>
+        <tagged_token token="oil" tag="NN"/>
+        <tagged_token token="large" tag="JJ"/>
+        <tagged_token token="eggs" tag="NNS"/>
+        <tagged_token token="teaspoon" tag="NN"/>
+        <tagged_token token="vanilla" tag="NN"/>
+        <tagged_token token="extract" tag="JJ"/>
+        <tagged_token token="cup" tag="NN"/>
+        <tagged_token token="boiling" tag="VBG"/>
+        <tagged_token token="water" tag="NN"/>
+        <tagged_token token="instructions" tag="NNS"/>
+        <tagged_token token="preheat" tag="VBP"/>
+        <tagged_token token="oven" tag="RB"/>
+        <tagged_token token="to" tag="TO"/>
+        <tagged_token token="degrees" tag="NNS"/>
+        <tagged_token token="f" tag="VB"/>
+        <tagged_token token="degrees" tag="NNS"/>
+        <tagged_token token="c" tag="JJ"/>
+        <tagged_token token="grease" tag="NN"/>
+        <tagged_token token="and" tag="CC"/>
+        <tagged_token token="flour" tag="JJ"/>
+        <tagged_token token="two" tag="CD"/>
+        <tagged_token token="round" tag="NN"/>
+        <tagged_token token="cake" tag="NN"/>
+        <tagged_token token="pans" tag="NNS"/>
+        <tagged_token token="in" tag="IN"/>
+        <tagged_token token="a" tag="DT"/>
+        <tagged_token token="large" tag="JJ"/>
+        <tagged_token token="bowl" tag="NN"/>
+        <tagged_token token="stir" tag="NN"/>
+        <tagged_token token="together" tag="RB"/>
+        <tagged_token token="the" tag="DT"/>
+        <tagged_token token="flour" tag="NN"/>
+        <tagged_token token="sugar" tag="NN"/>
+        <tagged_token token="cocoa" tag="NN"/>
+        <tagged_token token="powder" tag="NN"/>
+        <tagged_token token="baking" tag="VBG"/>
+        <tagged_token token="soda" tag="NN"/>
+        <tagged_token token="baking" tag="VBG"/>
+        <tagged_token token="powder" tag="NN"/>
+        <tagged_token token="and" tag="CC"/>
+        <tagged_token token="salt" tag="NN"/>
+        <tagged_token token="add" tag="VBP"/>
+        <tagged_token token="the" tag="DT"/>
+        <tagged_token token="buttermilk" tag="NN"/>
+        <tagged_token token="oil" tag="NN"/>
+        <tagged_token token="eggs" tag="NNS"/>
+        <tagged_token token="and" tag="CC"/>
+        <tagged_token token="vanilla" tag="NN"/>
+        <tagged_token token="extract" tag="JJ"/>
+        <tagged_token token="beat" tag="NN"/>
+        <tagged_token token="on" tag="IN"/>
+        <tagged_token token="medium" tag="NN"/>
+        <tagged_token token="speed" tag="NN"/>
+        <tagged_token token="for" tag="IN"/>
+        <tagged_token token="minutes" tag="NNS"/>
+        <tagged_token token="stir" tag="VBP"/>
+        <tagged_token token="in" tag="IN"/>
+        <tagged_token token="the" tag="DT"/>
+        <tagged_token token="boiling" tag="NN"/>
+        <tagged_token token="water" tag="NN"/>
+        <tagged_token token="batter" tag="NN"/>
+        <tagged_token token="will" tag="MD"/>
+        <tagged_token token="be" tag="VB"/>
+        <tagged_token token="thin" tag="JJ"/>
+        <tagged_token token="pour" tag="NN"/>
+        <tagged_token token="evenly" tag="RB"/>
+        <tagged_token token="into" tag="IN"/>
+        <tagged_token token="the" tag="DT"/>
+        <tagged_token token="prepared" tag="JJ"/>
+        <tagged_token token="pans" tag="NNS"/>
+        <tagged_token token="bake" tag="VBP"/>
+        <tagged_token token="for" tag="IN"/>
+        <tagged_token token="to" tag="TO"/>
+        <tagged_token token="minutes" tag="NNS"/>
+        <tagged_token token="or" tag="CC"/>
+        <tagged_token token="until" tag="IN"/>
+        <tagged_token token="a" tag="DT"/>
+        <tagged_token token="wooden" tag="JJ"/>
+        <tagged_token token="skewer" tag="NN"/>
+        <tagged_token token="inserted" tag="VBN"/>
+        <tagged_token token="into" tag="IN"/>
+        <tagged_token token="the" tag="DT"/>
+        <tagged_token token="center" tag="NN"/>
+        <tagged_token token="comes" tag="VBZ"/>
+        <tagged_token token="out" tag="RP"/>
+        <tagged_token token="clean" tag="JJ"/>
+        <tagged_token token="let" tag="NN"/>
+        <tagged_token token="cool" tag="NN"/>
+        <tagged_token token="in" tag="IN"/>
+        <tagged_token token="pans" tag="NNS"/>
+        <tagged_token token="for" tag="IN"/>
+        <tagged_token token="minutes" tag="NNS"/>
+        <tagged_token token="before" tag="IN"/>
+        <tagged_token token="removing" tag="VBG"/>
+        <tagged_token token="to" tag="TO"/>
+        <tagged_token token="a" tag="DT"/>
+        <tagged_token token="wire" tag="NN"/>
+        <tagged_token token="rack" tag="NN"/>
+        <tagged_token token="to" tag="TO"/>
+        <tagged_token token="cool" tag="VB"/>
+        <tagged_token token="completely" tag="RB"/>
+      </tagged_tokens>
+      <lemmas>
+        <lemma>simple</lemma>
+        <lemma>chocolate</lemma>
+        <lemma>cake</lemma>
+        <lemma>recipe</lemma>
+        <lemma>ingredient</lemma>
+        <lemma>cup</lemma>
+        <lemma>flour</lemma>
+        <lemma>cup</lemma>
+        <lemma>sugar</lemma>
+        <lemma>cup</lemma>
+        <lemma>unsweetened</lemma>
+        <lemma>cocoa</lemma>
+        <lemma>powder</lemma>
+        <lemma>teaspoon</lemma>
+        <lemma>bake</lemma>
+        <lemma>soda</lemma>
+        <lemma>teaspoon</lemma>
+        <lemma>bake</lemma>
+        <lemma>powder</lemma>
+        <lemma>teaspoon</lemma>
+        <lemma>salt</lemma>
+        <lemma>cup</lemma>
+        <lemma>buttermilk</lemma>
+        <lemma>cup</lemma>
+        <lemma>vegetable</lemma>
+        <lemma>oil</lemma>
+        <lemma>large</lemma>
+        <lemma>egg</lemma>
+        <lemma>teaspoon</lemma>
+        <lemma>vanilla</lemma>
+        <lemma>extract</lemma>
+        <lemma>cup</lemma>
+        <lemma>boil</lemma>
+        <lemma>water</lemma>
+        <lemma>instruction</lemma>
+        <lemma>preheat</lemma>
+        <lemma>oven</lemma>
+        <lemma>to</lemma>
+        <lemma>degree</lemma>
+        <lemma>f</lemma>
+        <lemma>degree</lemma>
+        <lemma>c</lemma>
+        <lemma>grease</lemma>
+        <lemma>and</lemma>
+        <lemma>flour</lemma>
+        <lemma>two</lemma>
+        <lemma>round</lemma>
+        <lemma>cake</lemma>
+        <lemma>pan</lemma>
+        <lemma>in</lemma>
+        <lemma>a</lemma>
+        <lemma>large</lemma>
+        <lemma>bowl</lemma>
+        <lemma>stir</lemma>
+        <lemma>together</lemma>
+        <lemma>the</lemma>
+        <lemma>flour</lemma>
+        <lemma>sugar</lemma>
+        <lemma>cocoa</lemma>
+        <lemma>powder</lemma>
+        <lemma>bake</lemma>
+        <lemma>soda</lemma>
+        <lemma>bake</lemma>
+        <lemma>powder</lemma>
+        <lemma>and</lemma>
+        <lemma>salt</lemma>
+        <lemma>add</lemma>
+        <lemma>the</lemma>
+        <lemma>buttermilk</lemma>
+        <lemma>oil</lemma>
+        <lemma>egg</lemma>
+        <lemma>and</lemma>
+        <lemma>vanilla</lemma>
+        <lemma>extract</lemma>
+        <lemma>beat</lemma>
+        <lemma>on</lemma>
+        <lemma>medium</lemma>
+        <lemma>speed</lemma>
+        <lemma>for</lemma>
+        <lemma>minute</lemma>
+        <lemma>stir</lemma>
+        <lemma>in</lemma>
+        <lemma>the</lemma>
+        <lemma>boiling</lemma>
+        <lemma>water</lemma>
+        <lemma>batter</lemma>
+        <lemma>will</lemma>
+        <lemma>be</lemma>
+        <lemma>thin</lemma>
+        <lemma>pour</lemma>
+        <lemma>evenly</lemma>
+        <lemma>into</lemma>
+        <lemma>the</lemma>
+        <lemma>prepared</lemma>
+        <lemma>pan</lemma>
+        <lemma>bake</lemma>
+        <lemma>for</lemma>
+        <lemma>to</lemma>
+        <lemma>minute</lemma>
+        <lemma>or</lemma>
+        <lemma>until</lemma>
+        <lemma>a</lemma>
+        <lemma>wooden</lemma>
+        <lemma>skewer</lemma>
+        <lemma>insert</lemma>
+        <lemma>into</lemma>
+        <lemma>the</lemma>
+        <lemma>center</lemma>
+        <lemma>come</lemma>
+        <lemma>out</lemma>
+        <lemma>clean</lemma>
+        <lemma>let</lemma>
+        <lemma>cool</lemma>
+        <lemma>in</lemma>
+        <lemma>pan</lemma>
+        <lemma>for</lemma>
+        <lemma>minute</lemma>
+        <lemma>before</lemma>
+        <lemma>remove</lemma>
+        <lemma>to</lemma>
+        <lemma>a</lemma>
+        <lemma>wire</lemma>
+        <lemma>rack</lemma>
+        <lemma>to</lemma>
+        <lemma>cool</lemma>
+        <lemma>completely</lemma>
+      </lemmas>
+    </file>
+  </files>
+</corpus>
