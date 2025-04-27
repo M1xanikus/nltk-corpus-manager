@@ -692,6 +692,9 @@ class CorpusManager:
                 # Добавляем результат с именем файла
                 results.append((f"...{left_context}", highlighted_word, f"{right_context}...", filename))
 
+        # Удаляем дубликаты перед сортировкой
+        results = list(set(results))
+
         # Сортируем результаты для консистентности (например, по имени файла, затем по левому контексту)
         results.sort(key=lambda x: (x[3], x[0]))
         return results
